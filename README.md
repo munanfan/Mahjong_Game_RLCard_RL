@@ -1,0 +1,2 @@
+# Mahjong_Game_RLCard_RL
+基于RLCard平台的麻将mahjong博弈游戏代码，包括基于规则和基于Dueling DQN的Agent模型。
